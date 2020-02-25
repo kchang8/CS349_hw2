@@ -1,4 +1,4 @@
-# CS349_hw1
+# CS349_hw2
 
 In this assignment, you will work through Chapter 7 of the textbook (Visual Effects with CSS) to add
 JavaScript to your Ottergram project.
